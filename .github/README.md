@@ -10,6 +10,6 @@
 * Chat on Discord: https://discord.gg/sgak4e5NKv
 * License summary: https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
 
-## About this plugin
+## About this repo
 
-Add stuff here
+This repo contains multiple samples showing how do to different things in Javalin.
